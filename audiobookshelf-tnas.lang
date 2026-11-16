@@ -1,0 +1,97 @@
+[en-us]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-cn]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[zh-hk]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[fr-fr]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[de-de]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[it-it]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[es-es]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[hu-hu]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ja-jp]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ko-kr]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pl-pl]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[ru-ru]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[tr-tr]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
+
+[pt-pt]
+name = "Audiobookshelf"
+auth = "waskevin"
+descript = "A self-hosted audiobook and podcast server with a web interface."
+release_note = "1. Initial release."
+important = "License and source information are available in the application repository. Docker Engine is required."
